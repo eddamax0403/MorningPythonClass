@@ -34,7 +34,7 @@ print(x)
 #Logical operators- and,or,not
 print(30 < 45 and 100 > 250)
 print(30 < 45 or 100 > 250)
-print(not (30 < 45 or 100 > 250)
+print(not (30 < 45 or 100 > 250))
 
 
 
